@@ -2,7 +2,7 @@
 
 FLUTTER-WALLIFY-APP
 
-![alt text](https://github.com/TRINITY-21/FLUTTER-WALLIFY-APP/blob/master/logo.PNG)
+![alt text](https://github.com/TRINITY-21/FLUTTER-WALLIFY-APP/blob/master/wallpaper.PNG)
 
 
 ## Getting Started
