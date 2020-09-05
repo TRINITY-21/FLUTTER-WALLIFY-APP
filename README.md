@@ -1,8 +1,8 @@
-# Wallpaper_App
+# FLUTTER-WALLIFY-APP
 
-A new Flutter project.
+FLUTTER-WALLIFY-APP
 
-![alt text](https://github.com/TRINITY-21/FLUTTER-WALLIFY-APP/blob/master/img.PNG)
+![alt text](https://github.com/TRINITY-21/FLUTTER-WALLIFY-APP/blob/master/logo.PNG)
 
 
 ## Getting Started
