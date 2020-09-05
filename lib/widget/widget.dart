@@ -60,13 +60,14 @@ Widget brandName() {
         style: TextStyle(color: Colors.white, 
         fontWeight: FontWeight.bold,
         fontSize: 24,
-        fontFamily: 'MaterialIcons-Regular'),
+        fontFamily: 'PlayfairDisplay'),
       ),
       SizedBox(width:5,),
       Text(
         "Hub",
         style: TextStyle(color: Colors.blue, 
        // fontFamily: 'MaterialIcons-Regular'
+       fontWeight: FontWeight.bold,
         ),
       )
     ],

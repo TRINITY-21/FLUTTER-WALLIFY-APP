@@ -121,7 +121,7 @@ class _HomeState extends State<Home> {
                                               )));
                                 }
                               },
-                              child: Container(child: Icon(Icons.favorite))
+                              child: Container(child: Icon(Icons.search, color: Colors.white,))
                           ),
                         ],
                       ),
@@ -137,7 +137,7 @@ class _HomeState extends State<Home> {
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 12,
-                              fontFamily: 'MaterialIcons-Regular'),
+                              fontFamily: 'PlayfairDisplay'),
                         ),
                         GestureDetector(
                           onTap: () {
@@ -187,7 +187,7 @@ class _HomeState extends State<Home> {
                           style: TextStyle(
                               color: Colors.white,
                               fontSize: 12,
-                              fontFamily: 'MaterialIcons-Regular'),
+                              fontFamily: 'PlayfairDisplay'),
                         ),
                         GestureDetector(
                           onTap: () {
@@ -263,7 +263,7 @@ class CategoriesTile extends StatelessWidget {
                             color: Colors.black54,
                             fontSize: 17,
                             fontWeight: FontWeight.bold,
-                            fontFamily: 'MaterialIcons-Regular'),
+                            fontFamily: 'PlayfairDisplay'),
                       )),
                 ],
               )
@@ -300,9 +300,9 @@ class CategoriesTile extends StatelessWidget {
                         categorie ?? "Yo Yo",
                         style: TextStyle(
                             color: Colors.white,
-                            fontSize: 20,
+                            fontSize: 18,
                             fontWeight: FontWeight.bold,
-                            fontFamily: 'MaterialIcons-Regular'),
+                            fontFamily: 'PlayfairDisplay'),
                       ))
                 ],
               ),
